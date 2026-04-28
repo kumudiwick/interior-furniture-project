@@ -1,12 +1,24 @@
-# React + Vite
+# Interior Furniture Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Overview
+This is a full-stack web application developed as part of a group project for managing interior furniture features.
 
-Currently, two official plugins are available:
+## My Contribution
+- Frontend development
+- UI/UX design implementation
+- Feature integration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Technologies Used
+- HTML, CSS, JavaScript
+- Tailwind CSS
+- Vite
+- Node.js (if backend used)
+- GitHub for version control
 
-## Expanding the ESLint configuration
+##  Features
+- Interactive UI design
+- Structured frontend and backend components
+- User-focused interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Note
+This was a collaborative group project developed with team members.
